@@ -7,3 +7,6 @@
 ```
 python3 hack_train.py --name "aug_weighted_5epo" --data ./data --gpu --epochs 5 --learning-rate 0.01
 ```
+
+Скрин сабмита:
+![](https://github.com/naidenovaleksei/made_cv/blob/master/hw1/proof.png)
